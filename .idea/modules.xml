@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdvAppDevProject.iml" filepath="$PROJECT_DIR$/AdvAppDevProject.iml" />
+      <module fileurl="file://C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\AdvAppDevProject.iml" filepath="C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\AdvAppDevProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\app\app.iml" filepath="C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jtds-1.2.7/jtds-1.2.7.iml" filepath="$PROJECT_DIR$/jtds-1.2.7/jtds-1.2.7.iml" />
+      <module fileurl="file://C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\jtds-1.2.7\jtds-1.2.7.iml" filepath="C:\Users\swspenc\Documents\GitHub\AdvAppDevProject\jtds-1.2.7\jtds-1.2.7.iml" />
     </modules>
   </component>
 </project>
